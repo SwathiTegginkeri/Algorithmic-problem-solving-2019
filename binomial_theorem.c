@@ -42,5 +42,6 @@ int main()
     printf("Enter n and r : ");
     scanf("%d%d",&n,&r);
     printf("%dC%d=%d",n,r,c_2d(n,r));
+    return(0);
 
 }
